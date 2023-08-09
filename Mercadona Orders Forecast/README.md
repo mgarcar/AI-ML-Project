@@ -4,7 +4,7 @@ This project contains a forecast of future orders of materials for Mercadona, ba
 
 ## Data
 
-The data used in this project is contained in an Excel file, which includes quarterly data of past orders for each material. The file is called time_series_df1.xlxs
+The data used in this project is contained in an Excel file, which includes quarterly data of past orders for each material. The file is called time_series_df1.xlsx
 
 ## The Notebook
 
